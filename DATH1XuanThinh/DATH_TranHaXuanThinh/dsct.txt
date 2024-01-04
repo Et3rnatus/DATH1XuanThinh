@@ -1,0 +1,13 @@
+12
+ct01         Thinh                   VN             19        1         1         0
+ct02         Messi                   Argentina      10        2         0         0
+ct03         Mbappe                  French         7         0         0         0
+ct04         Lukaku                  Belgium        12        0         0         0
+ct05         Rashford                England        14        1         2         0
+ct06         Ronaldo                 Portugal       9         1         2         1
+ct07         Pepe                    Portugal       3         0         3         0
+ct08         Maguire                 England        5         0         2         0
+ct09         Foden                   England        47        3         1         0
+ct10         Neymar                  Brazil         11        2         0         0
+ct11         Kaka                    Brazil         15        1         0         0
+ct12         Ramos                   Spain          4         2         2         0
